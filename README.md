@@ -1,2 +1,2 @@
 # CsharpChatbot
-Chatbot made with C#.
+Chatbot made with C#. (CODE AND VIDEO SOON
