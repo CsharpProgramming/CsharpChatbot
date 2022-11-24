@@ -1,0 +1,14 @@
+  Messages that you can give the chatbot:
+  =======================================
+  
+  1.hello
+  2.whats your name
+  3.2+2
+  4.goodbye
+  5.help
+  6.im sad
+  7.tell me a joke
+  8.who made you
+  9.calculator
+  10.what time is it
+  
