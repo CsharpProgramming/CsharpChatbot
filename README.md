@@ -1,2 +1,6 @@
 # CsharpChatbot
-Chatbot made with C#. (CODE AND VIDEO SOON)
+Chatbot made with C#.
+
+'''python
+print("Subscribe!")
+'''
