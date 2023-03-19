@@ -1,4 +1,4 @@
-# CsharpChatbot
+# C# Chatbot
 Chatbot made with C#.
 
 ```c#
