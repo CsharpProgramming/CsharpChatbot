@@ -58,7 +58,6 @@ namespace Chatbot
                 label3.Text = "Your message will go here after you send it!";
             }
 
-            //normal msgs and ressponses
             else if (textBox1.Text.Contains(Msg1) == true)
             {
                 label4.Text = Ressponse1;
