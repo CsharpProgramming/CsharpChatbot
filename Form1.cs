@@ -13,7 +13,7 @@ namespace Chatbot
 {
     public partial class Form1 : Form
     {
-        //Preset messages
+        //messages and responses 
         string Msg1 = "hello";
         string Ressponse1 = "Well hello there!";
         string Msg2 = "whats your name";
